@@ -1,7 +1,7 @@
 # Triangle Backup Site
 So the web server died again? Time to put up the ol' github landing page!
 This page is here to make sure that the triangle at least has something to put up that is not an error 404.
-Based on a template by Dinesh Pandiyan, updated and revised for us by Sam Gregg
+Based on a template by Dinesh Pandiyan, updated and revised for us by Sam Gregg.
 
 
 ### Custom Domain
